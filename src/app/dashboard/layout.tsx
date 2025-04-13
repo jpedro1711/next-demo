@@ -11,7 +11,7 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
           <Link href="/dashboard/projetos">📁 Projetos</Link>
           <Link href="/dashboard/defeitos">🐞 Defeitos</Link>
           <Link href="/dashboard/relatorios">📊 Relatorios</Link>
-          <Link href="/logout">🚪 Sair</Link>
+          <Link href="/">🚪 Sair</Link>
         </nav>
       </aside>
 
